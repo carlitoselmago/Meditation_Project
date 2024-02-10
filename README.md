@@ -1,5 +1,7 @@
 ### Installatiton
 
+tested on pyhon 3.9
+
 1. Copy the mp3 files to `meditation_project/input` directory
 
 2. Go into the project directory
